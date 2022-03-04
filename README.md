@@ -40,7 +40,7 @@
 >모델 설명  
 
 | 모델 이름 | 설명 |
-| :--------: | :--------: |
+| :--------: | :-------- |
 | CoAtNet_81.pth | **CoAtNet-b0** transformation4. imbalancedsampler. label에 따라 다른 augmentation. label smoothing. |
 | mask_model.pt | **EfficientNet-b0** transformation4. imbalancedsampler. label smoothing|
 | Resnet_80.pth | **ResNet18** transformation4. labelsmoothing. imbalancedsampler. label에 따른 augmentation. <58 label change |
