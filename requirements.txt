@@ -1,0 +1,15 @@
+albumentations==1.1.0
+efficientnet-pytorch==0.7.1
+einops==0.4.0
+matplotlib==3.2.1
+opencv-python==4.5.1.48
+pandas==1.1.5
+scikit-learn==0.24.2
+seaborn==0.11.2
+tensorboard==2.4.1
+torch==1.10.2
+torchsampler @ https://github.com/ufoym/imbalanced-dataset-sampler/archive/master.zip
+torchvision==0.11.3
+tqdm @ file:///tmp/build/80754af9/tqdm_1605303662894/work
+ttach==0.0.3
+wandb==0.12.10
