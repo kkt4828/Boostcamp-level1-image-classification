@@ -48,4 +48,4 @@
 
 
 + **Ensemble.ipynb**  
-Best directory에 있는 학습된 모델들을 soft-voting을 통해 valid 및 submission file을 만들 수 있는 코드
+Best directory에 있는 학습된 모델들을 soft-voting을 통해 valid 및 submission file을 만들 수 있는  코드
