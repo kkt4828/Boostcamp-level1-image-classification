@@ -64,6 +64,10 @@ EDA를 통해 데이터를 분석하고 분석한 결과를 바탕으로 데이�
 - 나이,성별 : Seaborn의 CountPlot 활용했다.
 - 마스크 착용 여부 : Seaborn의 BarPlot 활용했다.
 
++ **EDA, Augmentation, Sampler.ipynb**  
+EDA, Augmentation 기법 적용, Sampler 분석 노트북
+
+
 ### Augmentation
 - ToGray: 흑백 효과를 추가하여 머리색이 나이를 판단하는 기준에 머리색뿐이 아닌 주름살같은 피부요인도 고려해보게끔 유도하였다.
 - CourseDropOut: 사진에 임의의 hole을 발생시켜서 학습효과 향상을 기대하였다.
@@ -79,6 +83,9 @@ EDA를 통해 데이터를 분석하고 분석한 결과를 바탕으로 데이�
 - Smooth labeling 기법을 사용하여 one-hot encoding을 방지했다.
 - Cross Entropy대신 Focal Loss를 활용했다.
 - 60세 이상의 자료가 부족했기 때문에 57세 이상부터 60대로 분류했다.
+
++ **Preprocessing.ipynb**  
+Data Pipeline 용 코드
 
 
 + **Ensemble.ipynb**  
