@@ -5,9 +5,9 @@
 + 카메라에 비춰진 얼굴 이미지로 마스크 착용여부와 올바르게 쓴게 맞는지 가려내는 시스템이 필요  
 
 ## 최종 결과
->Public f1 Score : 0.7514
+>Public f1 Score : 0.7568
 
->Private f1 Score : 0.7568
+>Private f1 Score : 0.7514
 
 >최종 순위 : 11/48
 
