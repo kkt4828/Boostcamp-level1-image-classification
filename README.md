@@ -50,7 +50,7 @@ EDA를 통해 데이터를 분석하고 분석한 결과를 바탕으로 데이�
 | 모델 이름 | 설명 |
 | :--------: | :-------- |
 | CoAtNet_81.pth | **CoAtNet-b0** transformation4. imbalancedsampler. label에 따라 다른 augmentation. label smoothing. |
-| mask_model.pt | **EfficientNet-b0** transformation4. imbalancedsampler. label smoothing|
+| mask_model.pt | **EfficientNet-b0** transformation4. imbalancedsampler. label smoothing. Focal Loss. <57 label change |
 | Resnet_80.pth | **ResNet18** transformation4. labelsmoothing. imbalancedsampler. label에 따른 augmentation. <58 label change |
 | Resnet_mixup.pth | **ResNet18** transformation4. imbalancedsampling. Mixup. |
 
